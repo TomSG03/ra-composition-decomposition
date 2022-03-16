@@ -1,4 +1,3 @@
-import './bootstrap.css';
 import './App.css';
 import Page from './Page/Page';
 
